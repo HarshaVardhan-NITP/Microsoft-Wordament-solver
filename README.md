@@ -10,5 +10,5 @@
     a l o r <br/>
     y h s r <br/>
 * After giving input in above format we will get the valid words which found in that matrix as below.
-* <br/>
+ <br/>
 * ![](images/1.jpg)
